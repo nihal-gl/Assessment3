@@ -1,0 +1,22 @@
+export const movieData = [
+  {id:1,name:"Time That Remains, The",genres:"Drama"},
+  {id:2,name:"Wet Hot American Summer",genres:"Comedy"},
+  {id:3,name:"House of Women",genres:"Crime|Drama"},
+  {id:4,name:"It's My Mother's Birthday Today",genres:"(no genres listed)"},
+  {id:5,name:"Ten Commandments, The",genres:"Drama"},
+  {id:6,name:"Challenge to Lassie",genres:"Children|Drama"},
+  {id:7,name:"Let Sleeping Corpses Lie (Non si deve profanare il sonno dei morti)",genres:"Horror"},
+  {id:8,name:"16 to Life",genres:"Comedy|Drama"},
+  {id:9,name:"Glimpse Inside the Mind of Charles Swan III, A",genres:"Comedy"},
+  {id:10,name:"Chronicle of a Summer (Chronique d'un été)",genres:"Documentary"},
+  {id:11,name:"Heart Is Deceitful Above All Things, The",genres:"Drama"},
+  {id:12,name:"My Beautiful Laundrette",genres:"Drama|Romance"},
+  {id:13,name:"After the Sunset",genres:"Action|Adventure|Comedy|Crime|Thriller"},
+  {id:14,name:"Night Flight",genres:"Drama"},
+  {id:15,name:"Kein Bund für's Leben",genres:"Comedy"},
+  {id:16,name:"Kommissarie Späck",genres:"Comedy"},
+  {id:17,name:"Camera Buff (Amator)",genres:"Drama"},
+  {id:18,name:"Affliction",genres:"Drama"},
+  {id:19,name:"Martin Lawrence Live: Runteldat",genres:"Comedy|Documentary"},
+  {id:20,name:"Tol'able David",genres:"Drama"}
+  ]
